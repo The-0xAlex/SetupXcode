@@ -17,8 +17,9 @@ if colorTheme {
 }
 
 if keyBindings {
-  print("I make my own keyboard firmware... but maybe this'll work out for you somehow!")  
-  print("Installing 0xAlex's Xcode Color Theme...\n")
+  print("I make my own keyboard firmware... so I have some easy macros", terminator: "") 
+  print("to hit these,but maybe this'll work out for you somehow! - 0xA")
+  print("Installing 0xAlex's Xcode Key Bindings...\n")
   copyFile("0xAlex.idekeybindings", to: userDataDir.appendingPathComponent("KeyBindings"))
   print("0xAlex's Xcode key bindings successfully installed.\n")
 }
