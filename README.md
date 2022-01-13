@@ -11,7 +11,7 @@ up yet.  Use it as a starting point if you want to do something similar.
 _(Another obvious use-case: Steal this and modify a private one to rapidly prank 
 your victi... friends who leave their IDE unattended)_
 
-## Some Juicy Samples of the only theme you could ever want:
+## Some Juicy Samples of the-only-theme-you-could-ever-want™:
 
 ![](Colors0.png)
 ![](Colors1.png)
