@@ -6,11 +6,12 @@ This package contains the Xcode theme and keybindings I use.  Since they are
 the greatest of all time, I made it public so others can experience the glory.
 
 I have various machines, work locations, and installs, so I use this executable
-to quickly adjust my Xcode elsewhere.  _(Another obvious use-case: Take this 
-and make a private one to rapidly prank your victi... friends who leave their 
-IDE unattended)_
+and others like it to quickly adjust my Xcode stuff when the machine isn't set 
+up yet.  Use it as a starting point if you want to do something similar.
+_(Another obvious use-case: Steal this and modify a private one to rapidly prank 
+your victi... friends who leave their IDE unattended)_
 
-## Some Juicy Samples of The Best Theme:
+## Some Juicy Samples of the only theme you could ever want:
 
 ![](Colors0.png)
 ![](Colors1.png)
@@ -21,8 +22,7 @@ IDE unattended)_
 
 ## Install using SPM if you're a 1337_hax0r
 
-The easiest way to install is to clone the repo and execute the pack 
-with `swift run`:
+Clone the repo and execute the pack with `swift run`
 
 ```
 $ git clone https://github.com/The-0xAlex/SetupXcode.git
@@ -37,9 +37,7 @@ $ cd ..
 $ rm -rf SetupXcode
 ```
 
-## Or... Install manually to burn calories and time
-
-You can also choose to do things manually if you want to be weird:
+## Install manually to burn calories and time
 
 1. Clone this repo:
 ```
