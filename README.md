@@ -19,7 +19,7 @@ IDE unattended)_
 ![](Colors3.png)
 ![](Colors4.png)
 
-## Install using SPM
+## Install using SPM to be a 1337_hax0r
 
 The easiest way to install is to clone the repo and execute the pack 
 with `swift run`:
@@ -37,7 +37,7 @@ $ cd ..
 $ rm -rf SetupXcode
 ```
 
-## Install manually to burn calories
+## Install manually to burn calories and time
 
 You can also choose to do things manually if you want to be weird:
 
@@ -46,21 +46,21 @@ You can also choose to do things manually if you want to be weird:
 $ git clone https://github.com/The-0xAlex/SetupXcode.git
 ```
 
-2a. Create a directory at this path if it doesn't exist already:
+2. Create a directory at this path if it doesn't exist already:
 ```
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-2b. Copy the file `0xAlex.xccolortheme` from the repo into that folder.
+3. Copy the file `0xAlex.xccolortheme` from the repo into that folder.
 
-3a. Create a directory at this path if it doesn't exist already:
+4. Create a directory at this path if it doesn't exist already:
 ```
 ~/Library/Developer/Xcode/UserData/KeyBindings
 ```
 
-3b. Copy the file `0xAlex.idekeybindings` from the repo into that folder.
+5. Copy the file `0xAlex.idekeybindings` from the repo into that folder.
 
-4. Realize you'll never get that time back and you should have just ran 
+6. Realize you'll never get that time back and you should have just ran 
 the script.
 
 ## Attributions
