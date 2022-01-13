@@ -13,12 +13,23 @@ your victi... friends who leave their IDE unattended)_
 
 ## Some Juicy Samples of the-only-theme-you-could-ever-want™
 
-![](Colors0.png)
-![](Colors1.png)
-![](Bindings.png)
-![](Colors2.png)
-![](Colors3.png)
-![](Colors4.png)
+> - This very pack's install script
+>> ![](Colors0.png)
+>
+> - A randomly selected Leetcode question to show-off this amazing syntax coloring
+>> ![](Colors1.png)
+>
+> - It takes a lot for me to customize a binding... I use these all the time
+>> ![](Bindings.png)
+>
+> - Random Swift file with a declaration highlighted
+>> ![](Colors2.png)
+>
+> - Metal Shading Language colors
+>> ![](Colors3.png)
+>
+> - Literally this markdown file in Xcode
+>> ![](Colors4.png)
 
 ## Install using SPM if you're a 1337_hax0r
 
