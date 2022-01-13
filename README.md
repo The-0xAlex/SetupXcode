@@ -10,7 +10,7 @@ to quickly adjust my Xcode elsewhere.  _(Another obvious use-case: Take this
 and make a private one to rapidly prank your victi... friends who leave their 
 IDE unattended)_
 
-## Some Juicy Samples:
+## Some Juicy Samples of The Best Theme:
 
 ![](Colors0.png)
 ![](Colors1.png)
@@ -19,7 +19,7 @@ IDE unattended)_
 ![](Colors3.png)
 ![](Colors4.png)
 
-## Install using SPM to be a 1337_hax0r
+## Install using SPM if you're a 1337_hax0r
 
 The easiest way to install is to clone the repo and execute the pack 
 with `swift run`:
@@ -37,7 +37,7 @@ $ cd ..
 $ rm -rf SetupXcode
 ```
 
-## Install manually to burn calories and time
+## Or... Install manually to burn calories and time
 
 You can also choose to do things manually if you want to be weird:
 
