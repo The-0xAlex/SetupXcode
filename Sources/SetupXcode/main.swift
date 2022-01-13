@@ -11,17 +11,19 @@ guard colorTheme || keyBindings else { exit(0) }
 let userDataDir = getUserDataDir()
 
 if colorTheme {
-  print("Installing 0xAlex's Xcode Color Theme...")
+  print("You have excellent taste.  Installing 0xAlex's Xcode Color Theme...\n")
   copyFile("0xAlex.xccolortheme", to: userDataDir.appendingPathComponent("FontAndColorThemes"))
   print("0xAlex's Xcode Color Theme successfully installed.\n")
 }
 
 if keyBindings {
+  print("I make my own keyboard firmware... but maybe this'll work out for you somehow!")  
+  print("Installing 0xAlex's Xcode Color Theme...\n")
   copyFile("0xAlex.idekeybindings", to: userDataDir.appendingPathComponent("KeyBindings"))
   print("0xAlex's Xcode key bindings successfully installed.\n")
 }
 
-print("Complete. Restart Xcode, open preferences, and make good choices.\n")
+print("All done. Restart Xcode, open preferences, and make good choices.\n")
 exit(0)
 
 // MARK: - Helpers
