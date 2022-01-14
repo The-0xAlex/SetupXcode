@@ -36,42 +36,42 @@ your victi... friends who leave their IDE unattended)_
 Clone the repo and execute the pack with `swift run`
 
 ```
-$ git clone https://github.com/The-0xAlex/SetupXcode.git
-$ cd SetupXcode
-$ swift run
+git clone https://github.com/The-0xAlex/SetupXcode.git
+cd SetupXcode && swift run
 ```
 
 Gotta get your hygeine on, so bathe afterwords:
 
 ```
-$ cd ..
-$ rm -rf SetupXcode
+cd .. && rm -rf SetupXcode
 ```
 
 
 
 ## Install manually to burn calories and time
 
-1. Clone this repo:
 ```
-$ git clone https://github.com/The-0xAlex/SetupXcode.git
-```
-
-2. Create a directory at this path if it doesn't exist already:
-```
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
-
-3. Copy the file `0xAlex.xccolortheme` from the repo into that folder.
-
-4. Create a directory at this path if it doesn't exist already:
-```
-~/Library/Developer/Xcode/UserData/KeyBindings
+# 1
+git clone https://github.com/The-0xAlex/SetupXcode.git
+# 2 (If you want the theme)
+mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp SetupXcode/0xAlex.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/0xAlex.xccolortheme
+#3 (If you want the keyBindings)
+mkdir ~/Library/Developer/Xcode/UserData/KeyBindings
+cp SetupXcode/0xAlex.xccolortheme ~/Library/Developer/Xcode/UserData/KeyBindings/0xAlex.idekeybindings
+#4
+rm -rf SetupXcode
+#5 Cooldown.
 ```
 
-5. Copy the file `0xAlex.idekeybindings` from the repo into that folder.
-
-6. **Realize you'll never get that time back and you should have just run 
+Here's what this does, so you can do it in the Finder GUI if you so choose:
+1. Clone this repo from GitHub.
+2. Create a directory at this path (will just print that it exists if it's 
+   already there) and copy the theme file from the repo to where Xcode
+   expects it to be.
+3. Same thing as 2 but for the KeyBindings.
+4. Delete the repo you downloaded.
+5. **Realize you'll never get that time back and you should have just run 
    the script.**
 
 ## Attributions
