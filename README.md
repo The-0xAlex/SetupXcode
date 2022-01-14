@@ -71,7 +71,7 @@ $ git clone https://github.com/The-0xAlex/SetupXcode.git
 
 5. Copy the file `0xAlex.idekeybindings` from the repo into that folder.
 
-6. **Realize you'll never get that time back and you should have just ran 
+6. **Realize you'll never get that time back and you should have just run 
    the script.**
 
 ## Attributions
